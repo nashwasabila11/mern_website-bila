@@ -12,7 +12,7 @@ app.use(cors())
 
 const PORT = process.env.PORT || 9002;
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb+srv://admin:utbqTdERwXRCWvZK@mern-website.d6sigzw.mongodb.net/LafiraBakery", {
+mongoose.connect(process.env.MONGODB_URI || "mongodb+srv://admin:<password>@mern-website.d6sigzw.mongodb.net/LafiraBakery", {
     useNewUrlParser: true,
     useUnifiedTopology: true
 }, () => {
