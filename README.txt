@@ -1,4 +1,4 @@
-# mern_website-bila
+**mern_website-bila**
 
 client -> frontend (react.js, express.js)
 server -> backend (mongodb, nodejs)
@@ -12,4 +12,4 @@ npm start
 npm start
 
 
-### NOTE : in server.js replace <password> to your mongodb atlas database password
+NOTE : in server.js replace <password> to your mongodb atlas database password
