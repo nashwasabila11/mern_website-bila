@@ -1,4 +1,4 @@
-**mern_website-bila**
+mern_website-bila
 
 client -> frontend (react.js, express.js)
 server -> backend (mongodb, nodejs)
